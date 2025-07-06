@@ -138,7 +138,7 @@ Trường: Đại học Đại Nam
 
 Lớp: Công nghệ thông tin 16-04
 
-Nhóm: Nhóm 10
+Nhóm: 10
 
 Danh sách thành viên:
 - Vũ Hải Đức
