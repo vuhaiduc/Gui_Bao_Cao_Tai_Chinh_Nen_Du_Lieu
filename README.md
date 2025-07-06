@@ -115,20 +115,20 @@ Người dùng cần nhập lại đúng handshake hoặc tạo lại gói tin m
 Ứng dụng chạy trên dòng lệnh (Command-line) với các thông báo đơn giản:
 
 ### 1. Người gửi
-![Sender](Sender.jpg)
+![Sender](Images/Sender.jpg)
 
 ### 2. Người nhận
-![Receiver](Receiver.jpg)
+![Receiver](Images/Receiver.jpg)
 
 ## Ví dụ phản hồi ACK / NACK
 
 ### 1. ACK
 
-![ACK](images/Ack.png)
+![ACK](Images/Ack.jpg)
 
 ### 2. NACK
 
-![NACK](images/Nack.png)
+![NACK](Images/Nack.jpg)
 
 ---
 
