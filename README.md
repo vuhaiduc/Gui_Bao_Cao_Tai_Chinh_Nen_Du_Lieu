@@ -124,7 +124,7 @@ Người dùng cần nhập lại đúng handshake hoặc tạo lại gói tin m
 
 ### 1. ACK
 
-![ACK](Images/Ack.jpg)
+![ACK](Images/Receiver.jpg)
 
 ### 2. NACK
 
